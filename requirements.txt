@@ -1,0 +1,4 @@
+pexpect==4.7.0
+nci-python-commands==1.0.8
+Command==0.1.0
+commands-generator==2019.4.13
